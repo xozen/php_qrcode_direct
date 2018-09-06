@@ -8,5 +8,4 @@ Create a QR Code image so that you can import it directly from the img tag.
 
 
 usage:
-img src="/qrcode/direct.php?data=http://domain.com&ecc=L&pixel=3&border=0&type=qrcode.png&hash=hashvalue"
-
+img src="/qrcode/direct.php?data=http://domain.com"
