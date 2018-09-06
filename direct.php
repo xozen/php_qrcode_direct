@@ -1,11 +1,11 @@
 <?
-
 /*
 
-    example :
+php_qrcode_direct 1.0
+http://github.com/xozen/php_qrcode_direct
 
-    <img src="/qrcode/direct.php?data=http://domain.com&ecc=L&pixel=3&border=0&type=qrcode.png&hash=<?=$hash?>" />
-
+example :
+<img src="/qrcode/direct.php?data=http://domain.com&ecc=L&pixel=3&border=0&type=qrcode.png&hash=<?=$hash?>" />
 
 */
 
