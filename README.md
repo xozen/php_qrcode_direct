@@ -8,4 +8,15 @@ Create a QR Code image so that you can import it directly from the img tag.
 
 
 usage:
-img src="/qrcode/direct.php?data=http://domain.com"
+img src="/qrcode/direct.php?data=https://domain.com"
+
+
+
+구글에서 완전히 동일한 내용의 서비스를 하고는 있습니다.
+
+google qrcode generator : https://chart.apis.google.com/chart?cht=qr&chs=200x200&chld=L|1&chl=https://domain.com
+
+
+하지만 대량으로 호출해서 사용하게 되면
+속도가 너무 느려서 실무에는 적용할 수 없는 상황이어서 직접 개발하게 되었습니다.
+
