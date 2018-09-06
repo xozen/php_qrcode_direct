@@ -17,6 +17,6 @@ img src="/qrcode/direct.php?data=https://domain.com"
 google qrcode generator : https://chart.apis.google.com/chart?cht=qr&chs=200x200&chld=L|1&chl=https://domain.com
 
 
-하지만 대량으로 호출해서 사용하게 되면
-속도가 너무 느려서 실무에는 적용할 수 없는 상황이어서 직접 개발하게 되었습니다.
+하지만 대량으로 호출해서 사용하게 되면 속도가 너무 느립니다.
+따라서 실무에는 적용할 수 없는 상황이어서 직접 개발하게 되었습니다.
 
