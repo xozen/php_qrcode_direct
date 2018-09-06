@@ -2,10 +2,10 @@
 /*
 
 php_qrcode_direct 1.0
-http://github.com/xozen/php_qrcode_direct
+https://github.com/xozen/php_qrcode_direct
 
 example :
-<img src="/qrcode/direct.php?data=http://domain.com&ecc=L&pixel=3&border=0&type=qrcode.png&hash=<?=$hash?>" />
+<img src="/qrcode/direct.php?data=https://domain.com&ecc=L&pixel=3&border=0&type=qrcode.png&hash=<?=$hash?>" />
 
 */
 
